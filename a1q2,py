@@ -1,0 +1,10 @@
+dist=int(input('enter your distance between two cities:'))
+mt=dist*1000
+ft=dist*100
+inch=dist*39.37
+centi=dist*3.28
+
+print('mtr:',mt)
+print('ft:',ft)
+print('inch',inch)
+print('centi',centi)
